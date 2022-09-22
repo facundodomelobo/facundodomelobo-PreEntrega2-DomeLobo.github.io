@@ -1,0 +1,22 @@
+
+.modulo-content {
+    display: inline-flex;
+    font-size: 30px;
+    color:black;
+    margin-bottom: 5px;
+    padding-top: 50px;
+    padding-bottom: 35px;
+    width: 100%;
+    justify-content: center;
+}
+.modulos a h2 {
+    font-weight: 400;
+    left: 50px;
+    padding-top: 25px;
+    color: black;
+}
+a {
+    text-decoration: none;
+}
+
+
